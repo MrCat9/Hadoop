@@ -14,3 +14,9 @@ HDFS读流程
 ![HDFS读流程](https://github.com/MrCat9/Hadoop/blob/master/img/HDFS%E8%AF%BB%E6%B5%81%E7%A8%8B.png)
 ![HDFS读流程2](https://github.com/MrCat9/Hadoop/blob/master/img/HDFS%E8%AF%BB%E6%B5%81%E7%A8%8B2.png)
 ![HDFS读流程概括](https://github.com/MrCat9/Hadoop/blob/master/img/HDFS%E8%AF%BB%E6%B5%81%E7%A8%8B%E6%A6%82%E6%8B%AC.png)
+
+
+
+常用HDFS Shell命令：
+类Linux系统：ls,cat,mkdir,rm,chmod,chown
+HDFS文件交互:copyFromLocal,copyToLocal,get,put
